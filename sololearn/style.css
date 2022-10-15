@@ -1,0 +1,27 @@
+.nav-link:hover {
+  background-color: #DB7093;
+
+
+}
+
+.tit{
+  position: absolute;
+  bottom: 35%;
+  left: 20%;
+}
+
+.bg-pink{
+  background-color: #FFC0CB;
+}
+.nav-link{
+  color:white;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+.heading{
+  font-weight: bold;
+  font-style: italic;
+  padding-top:2%;
+
+}
